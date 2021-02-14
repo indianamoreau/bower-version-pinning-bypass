@@ -1,0 +1,10 @@
+{
+  "name": "bower-version-pinning-bypass",
+  "homepage": "https://github.com/indianamoreau/bower-version-pinning-bypass",
+  "authors": [
+    "Indiana Moreau <moreau.indiana@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT"
+}
